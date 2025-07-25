@@ -2,14 +2,14 @@
     "config": {
         "autoloader-suffix": "offlinePayments"
     },
-    "name": "akaunting/module-offline-payments",
-    "description": "Offline Payments app for Akaunting",
-    "homepage": "https://akaunting.com",
+    "name": "arrocy/module-offline-payments",
+    "description": "Offline Payments app for Arrocy",
+    "homepage": "https://arrocy.com",
     "keywords": [
         "laravel",
         "accounting",
         "invoice",
-        "akaunting",
+        "arrocy",
         "offline-payments"
     ],
     "license": "GPL-3.0+",
